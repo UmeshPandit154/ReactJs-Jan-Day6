@@ -1,0 +1,68 @@
+ReactJs
+
+SPA
+
+public/index.html
+
+npm start
+ 
+      ->  react-scripts start
+            -> src/index.js
+                    Webpack Assets(HTML,CSS,JS,IMG) Builder
+                            Launch Port 3000
+
+
+
+
+
+What is component?
+* A component is a basic building block of react Application
+* A component is js file
+* A component can be created with functions and classes
+
+Types Of Component
+1. React Functional Component  (RFC)
+2. React Class Component       (RCC)
+
+
+
+A component can have its data
+
+Every component can have its data
+
+<h1>OKLABS</h1>
+
+Where can be a component data ?
+1. Inside Component  UMESH
+2. Outside Component as props  PANDIT
+
+
+
+{} = Expression Evaluator
+
+{You can write any JS Expression here.}
+
+
+let name='Umesh';
+{name}
+
+<starttag attriubute="value"></endtag>
+
+<h1 class="a1"></h1>
+
+ReactJs
+
+<h1 surname="pandit"></h1>
+
+props = Properties
+
+
+//1. Function defination
+function A(FormalArgument){
+
+}
+
+//2. Function calling
+
+A(ActualArgument);
+
